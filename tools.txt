@@ -1,0 +1,4 @@
+https://lisifdeoral.github.io/custom-IIIF-manifests/
+https://presentation-validator.iiif.io/
+https://projectmirador.org/embed/?iiif-content=
+https://manifest-editor.digirati.services/editor/
