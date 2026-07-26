@@ -1,7 +1,7 @@
 { 
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@type": "sc:Manifest",
-    "@id": "https://gist.github.com/lisifdeoral/bbab55b6a29d3e858ae29ea0f900a636/raw/Fredegar_MGH_2_text.json",
+    "@id": "https://lisifdeoral.github.io/custom-IIIF-manifests/Fredegar_and_Continuations_(MGH_2).json",
     "label": "Chronicarum quae dicuntur Fredegarii Scholastici libri IV cum continuationibus",
     "metadata": [
         {
@@ -13,10 +13,6 @@
                 {
                     "@language": "de",
                     "@value": "Urheber"
-                },
-                {
-                    "@language": "zh",
-                    "@value": "作者"
                 }
             ],
             "value": "<span>Fredegarius, Scholasticus -- (GND: <a href='http://d-nb.info/gnd/118873512'>118873512</a>)</span>"
@@ -24,20 +20,11 @@
         {
             "label": [
                 {
-                    "@language": "en",
+                    "@language": "la",
                     "@value": "Title"
                 }
             ],
             "value": "Fredegarii et aliorum Chronica"
-        },
-        {
-            "label": [
-                {
-                    "@language": "en",
-                    "@value": "By"
-                }
-            ],
-            "value": "ed. Bruno Krusch"
         },
         {
             "label": [
@@ -55,7 +42,7 @@
                     "@value": "Creation"
                 }
             ],
-            "value": "Hannover : Hahn<br/>1888"
+            "value": "Hannover : Hahn , 1888"
         },
         {
             "label": [
@@ -409,39 +396,6 @@
                     ],
                     "width": 4961,
                     "height": 7016
-                },
-                {
-                    "@id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00000749/canvas/19",
-                    "@type": "sc:Canvas",
-                    "label": "I (0019)",
-                    "service": {
-                        "@context": "http://iiif.io/api/annex/services/physdim/1/context.json",
-                        "physicalScale": 0.008468373655913979,
-                        "physicalUnits": "cm",
-                        "profile": "http://iiif.io/api/annex/services/physdim"
-                    },
-                    "images": [
-                        {
-                            "@type": "oa:Annotation",
-                            "motivation": "sc:painting",
-                            "resource": {
-                                "@id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00000749_00019/full/full/0/default.jpg",
-                                "@type": "dctypes:Image",
-                                "service": {
-                                    "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00000749_00019",
-                                    "profile": "http://iiif.io/api/image/2/level2.json",
-                                    "protocol": "http://iiif.io/api/image"
-                                },
-                                "format": "image/jpeg",
-                                "width": 2480,
-                                "height": 3508
-                            },
-                            "on": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00000749/canvas/19"
-                        }
-                    ],
-                    "width": 2480,
-                    "height": 3508
                 },
                 {
                     "@id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00000749/canvas/20",
