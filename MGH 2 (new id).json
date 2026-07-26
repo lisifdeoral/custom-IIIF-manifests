@@ -1,7 +1,7 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@type": "sc:Manifest",
-    "@id": "https://gist.github.com/lisifdeoral/bbab55b6a29d3e858ae29ea0f900a636/raw/MGH 2 (new id).json",
+    "@id": "https://github.com/lisifdeoral/custom-IIIF-manifests/raw/refs/heads/main/MGH%202%20(new%20id).json",
     "label": "Fredegarius, Scholasticus: Fredegarii et aliorum Chronica",
     "metadata": [
         {
