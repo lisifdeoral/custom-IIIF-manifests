@@ -5,24 +5,24 @@
     "label": "Chronicarum quae dicuntur Fredegarii Scholastici libri IV cum continuationibus",
     "metadata": [
         {
-            "label": [ { "@language": "en", "@value": "Creator" } ],
+            "label": { "@language": "en", "@value": "Creator" },
             "value": "<span>Fredegarius, Scholasticus -- (GND: <a href='http://d-nb.info/gnd/118873512'>118873512</a>)</span>"
         },
         {
-            "label": [ { "@language": "en", "@value": "Title" } ],
-            "value": [ { "@language": "la", "@value": "Chronicarum quae dicuntur Fredegarii Scholastici libri IV cum continuationibus" } ]
+            "label": { "@language": "en", "@value": "Title" },
+            "value": { "@language": "la", "@value": "Chronicarum quae dicuntur Fredegarii Scholastici libri IV cum continuationibus" }
         },
         {
-            "label": [ { "@language": "en", "@value": "Editor" } ],
+            "label": { "@language": "en", "@value": "Editor" },
             "value": "<span>Krusch, Bruno -- (GND: <a href='http://d-nb.info/gnd/116574275'>116574275</a>)</span>"
         },
         {
-            "label": [ { "@language": "en", "@value": "Creation" } ],
+            "label": { "@language": "en", "@value": "Creation" },
             "value": "Hannover : Hahn , 1888"
         },
         {
-            "label": [ { "@language": "en", "@value": "Language" } ],
-            "value": [ { "@language": "en", "@value": "Latin" } ]
+            "label": { "@language": "en", "@value": "Language" },
+            "value": { "@language": "en", "@value": "Latin" }
         }
     ],
     "license": [ "https://creativecommons.org/licenses/by-nc-sa/4.0/" ],
